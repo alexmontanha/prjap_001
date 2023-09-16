@@ -1,0 +1,24 @@
+Código: 1
+Nome: Volante
+Descrição: Volante
+Preço Unitário: 230.0
+Quantidade em estoque: 58
+Valor do estoque: 13340.0
+Código: 2
+Nome: Cambio
+Descrição: Cambio
+Preço Unitário: 500.0
+Quantidade em estoque: 125
+Valor do estoque: 62500.0
+Código: 3
+Nome: Banco
+Descrição: Banco
+Preço Unitário: 40.0
+Quantidade em estoque: 57
+Valor do estoque: 2280.0
+Código: 4
+Nome: Painel
+Descrição: Painel
+Preço Unitário: 60.0
+Quantidade em estoque: 250
+Valor do estoque: 15000.0
